@@ -1,0 +1,120 @@
+ .win {
+  color: green;
+ }
+
+ .lose {
+  color: red;
+ }
+
+ .tie {
+  color: orange;
+ }
+
+ h2 {
+  font-family: 'Cabin Sketch', cursive;
+ }
+
+ h1 {
+  font-family: 'Cabin Sketch', cursive;
+  text-align: center;
+  font-size: 60px;
+  font-weight: normal;
+ }
+
+ body {
+  font-family: 'Neucha', cursive;
+ }
+
+ .panel-g {
+  border-color: green;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+ }
+ 
+
+ .panel-r {
+  border-color: red;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+ }
+ 
+ .panel-o {
+  border-color: orange;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+ }
+ 
+ .panel-b {
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+ }
+
+ .layout-table {
+  width: 80%;
+  margin: auto;
+ }
+
+ .table-nested {
+  text-align: center;
+  width: 100%;
+ }
+
+ td {
+  padding: 5px;
+ }
+
+ .fancy-link {
+  text-align: center;
+  border: teal;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+  width: 100%;
+  border-radius: 10px;
+  color: teal;
+  text-decoration: none;
+  padding: 5px;
+  box-sizing: border-box;
+ }
+
+ .fancy-link:hover {
+  background-color: teal;
+  color: white;
+  transition-duration: .5s;
+  transition-property: all;
+ }
+
+ .fancy-link-active {
+  background-color: teal;
+  color: white;
+ }
+
+ .rules-footer {
+  text-align: center;
+  padding: 15px;
+ }
+
+ img {
+  width: 100%;
+ }
+
+ .top-align-td {
+  vertical-align: top;
+ }
+ 
